@@ -1,22 +1,22 @@
-Ultimate Netstalking Guide
-==========================
+The Complete Guide to Netstalking
+=========================
 
-# Содержание
+# Contents
 
-- [Вступление](about.md)
-- [Сканер портов Nmap](nmap-guide.md)
-- [Где брать диапазоны IP](ip-range-guide.md)
-- [Вопросы по сканированию в Сети](scanning-questions.md)
-- [Поисковые системы](search-engine-guide.md)
-- [10 советов по поиску в Сети](10-search-advices.md)
-- [Файлообменники](file-sharing-services.md)
-- [Полезный софт](software.md)
+- [Introduction](about.md)
+- [Nmap Port Scanner](nmap-guide.md)
+- [Where to Find IP Ranges](ip-range-guide.md)
+- [Questions About Network Scanning](scanning-questions.md)
+- [Search Engines](search-engine-guide.md)
+- [10 Tips for Online Searching](10-search-advices.md)
+- [File-Sharing Services](file-sharing-services.md)
+- [Useful Software](software.md)
 
-# Материалы 
+# Resources
 
-- [Руководство от Trailhead](trailhead-guide.pdf)
+- [Guide by Trailhead](trailhead-guide.pdf)
 - [Telegram: @netstalking_documents](https://t.me/netstalking_documents)
 
-# Контакты
+# Contact
 
 - [Telegram: @netstalking](https://t.me/netstalking)
