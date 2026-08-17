@@ -1,45 +1,34 @@
-Файлообменники
-===
+File-sharing services
 
-Файлообменник, файлхостинг или файловый хостинг — сервис, предоставляющий пользователю место под его файлы и круглосуточный доступ к ним через www. 
+File exchange service, file hosting, or file host is a service that provides users with space for their files and round-the-clock access to them via the web.
 
-На специальной странице файлообменника (чаще всего на главной) пользователь загружает файл на сервер файлообменника, а файлообменник отдает пользователю ссылку, которую он может передавать другим людям.
+On a special page of the file-sharing service (most often on the main page), the user uploads a file to the file-sharing service's server, and the file-sharing service provides the user with a link that they can share with others.
 
-В настоящее время многие файлообменники переросли старую архитектуру и перешли в категорию "облачных хранилищ", имеющих специальные клиентские программы для хранения данных и их синхронизации, возможность подключать места хранения как сетевые жесткие диски и так далее. Другие же файлообменники закрываются ввиду активной борьбы с нелегальным контентом и конкуренцией облачных сервисов.
+Currently, many file-sharing services have outgrown the old architecture and have transitioned to the category of "cloud storage," which have special client programs for data storage and synchronization, the ability to connect storage locations as network hard drives, and so on. Others, however, are shutting down due to the active fight against illegal content and competition from cloud services.
 
-Однако, практически в каждом регионе существуют местные файлообменники со своей языковой и тематической спецификой (смотри список в конце статьи). В отдельную категорию можно выделить файлообменники для изображений: ввиду популярности графического контента в соцсетях и изначальной необходимости где-то его хостить подобные сервисы очень популярны.
+However, almost every region has local file-sharing services with their own linguistic and thematic specifics (see the list at the end of the article). A separate category can be distinguished for image file-sharing services: due to the popularity of graphic content on social networks and the initial necessity of hosting it somewhere, such services are very popular.
 
-Наличие файлообменников обусловлено наличием нескольких способов монетизации, а именно:
- - Реклама: файлообменники вводят искусственную паузу, когда пользователи запрашивают файл, в течение некоторого времени пользователю показывается реклама, и только потом отдается файл;
- - Премиум (Pro, расширенные) аккаунты:  для таких аккаунтов убираются введенные сервисом ограничения на время ожидания, рекламу, скорость скачивания, место для хранения и так далее.
- - Партнёрские программы: реферальные ссылки на регистрацию или размещение высокопомещаемых загрузок, с которых сервис получает деньги за просмотр рекламы, а пользователь получает определённый процент
+The presence of file-sharing services is due to the existence of several monetization methods, namely:
+- Advertising: file-sharing services introduce an artificial pause when users request a file, during which the user is shown advertisements for a certain period of time, and only then is the file provided;
+- Premium (Pro, advanced) accounts: for such accounts, the service's imposed restrictions on waiting time, advertisements, download speed, storage space, and so on are removed.
+- Affiliate programs: referral links for registration or placement of high-capacity downloads, from which the service earns money thru ad views, and the user receives a certain percentage.
 
-Интерес к файлообменникам в разрезе нетсталкинга обусловлен как фактором случайности характера найденного контента (*нетрандом*), так и возможностью получить частный, приватный контент.
+Interest in file-sharing services in the context of netstalking is driven both by the randomness of the nature of the found content (*not-random*) and the possibility of obtaining private, exclusive content.
 
-В общем случае, процесс поиска заключается в изучении последних загруженных файлов на специальных страницах (галереи, карты сайта для индексации и топу подобное), причём в отдельных случаях (как с RGHost, например), существует вероятность скачивания файла в первые секунды после того, как он был загружен автором, но ещё не был "запривачен", то есть поставлен под пароль или скрыт от других.
+In general, the search process involves examining the most recently uploaded files on special pages (galleries, sitemap for indexing, and similar), and in some cases (like with RGHost, for example), there is a chance to download a file in the first few seconds after it has been uploaded by the author but has not yet been "locked," meaning it has not been password-protected or hidden from others.
 
-Примеры страниц файлообменников с последними закачанными файлами:
+Examples of file-sharing sites with the latest uploaded files:
 
-- http://namba.tj/files/
-- http://rgho.st/files
-- http://rghost.ru/sitemap_recent.xml
-- http://radikal.ru/Img/ShowGallery
-- https://imgur.com/new/time
+- http://namba.tj/files/ - http://rgho.st/files - http://rghost.ru/sitemap_recent.xml - http://radikal.ru/Img/ShowGallery - https://imgur.com/new/time
 
-Другим способом поиска на файлообменниках являются встроенные подсистемы, которые также могут позволять отсматривать контент по тегам. В этом случае осуществляется процесс поиска по ключевым словам (*делисерч*). Необходимо отметить, что существуют поисковики по популярным файлообменникам. Ниже представлены примеры:
+Another way to search on file-sharing platforms is thru built-in subsystems, which can also allow browsing content by tags. In this case, the process of searching by keywords (*delisearch*) is carried out. It should be noted that there are search engines for popular file-sharing services. Below are examples:
 
-- http://filediva.com
-- http://rapid-search-engine.com
-- http://alluc.ee
+- http://filediva.com - http://rapid-search-engine.com - http://alluc.ee
 
-Также следует отметить, что большинство файлообменников максируют ссылки на файлы сложным идентификатором из букв разного регистра и чисел. Это делается как для обеспечения уникальности ссылки, так и для предотвращения т.н. "парсинга", т.е. последовательного перебора ID ссылок, при котором весь или отфильтрованный контент ставится на загрузку (такие действия создают большую нагрузку на сервер и не приветствуются). Тем не менее, широко распространены самопальные "грабберы", которые вытаскивают ссылки на файлы нужного типа и сохраняют на компьютер.
+It should also be noted that most file-sharing services maximize file links with a complex identifier made up of letters in different cases and numbers. This is done both to ensure the uniqueness of the link and to prevent so-called "parsing," i.e., sequentially iterating thru link IDs, during which all or filtered content is queued for download (such actions create a heavy load on the server and are not welcomed). Nevertheless, homemade "grabbers" that extract links to files of the desired type and save them to the computer are widespread.
 
-Региональные файлообменники:
-- http://uloz.to - чешский, словацкий контент
-- http://zone-telechargement.ws - французский контент 
-- http://chomikuj.pl - польский контент, удостоен описания на Лурке
-- http://rghost.ru - русский контент, околоимиджбордная тематика
+Regional file-sharing sites: - http://uloz.to - Czech, Slovak content - http://zone-telechargement.ws - French content - http://chomikuj.pl - Polish content, described on Lurka - http://rghost.ru - Russian content, imageboard-related themes
 
-Полезная информация:
+Useful information:
 
-- https://lurkmore.to/Файлообменники
+- https://lurkmore.to/File-sharing_services
