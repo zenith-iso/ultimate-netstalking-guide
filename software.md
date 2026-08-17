@@ -1,11 +1,9 @@
-Полезный софт
-===
+Useful software
 
-- [Nmap](nmap-guide.md) - платиновый инструмент (консольный!), используется для точечного сканирования и небольших диапазонов, можно извлекать кучу информации с помощью NSE-скриптов. [Офсайт](https://nmap.org/man/ru/index.html)
+- [Nmap](nmap-guide.md) - a platinum tool (console-based!), used for point scanning and small ranges, you can extract a ton of information using NSE scripts. [Official site](https://nmap.org/man/ru/index.html)
 
-- [Zenmap](https://nmap.org/zenmap/) - графический интерфейс к nmap, очень удобный, даже схемы хостов рисует
+- [Zenmap](https://nmap.org/zenmap/) - a graphical interface for nmap, very convenient, even draws host diagrams
 
-- [Verda](https://github.com/pantyusha/verda-v1) - приложение для поиска веб-камер через Nmap
+- [Verda](https://github.com/pantyusha/verda-v1) - an application for finding web cameras using Nmap
 
-- [Nesca](https://github.com/pantyusha/nesca) - легендарный сканер сети от ISKOPASI, отбрасывает мусор, определяет годноту, брутит, открывает веб-камеры
-
+- [Nesca](https://github.com/pantyusha/nesca) - the legendary network scanner from ISKOPASI, filters out junk, determines quality, brute-forces, opens webcams
