@@ -1,58 +1,40 @@
-Нетсталкинг и поисковые системы
-====
-*Google is your friend.*
+Netstalking and search engines
 
-Поисковые Системы (далее ПС) индексируют все, до чего только могут дотянуться. 
-Это играет на руку тем, кто хочет находить всякие необычные вещи в интернете, то есть нам!
-Чтобы искать и находить то, что нужно именно тебе, надо уметь пользоваться его синтаксисом запросов.
+Search Engines (hereinafter SE) index everything they can reach.
+This plays into the hands of those who want to find all sorts of unusual things on the internet, that is, us!
+To search for and find exactly what you need, you need to know how to use its query syntax.
 
-Сталкер, **помни**: поисковики индексируют данные по ссылкам. 
-Это значит, что все камеры или документы, которые знает гугл, скорее всего, кто-то запостил на форумах в виде ссылки.
+Stalker, **remember**: search engines index data thru links.
+This means that all the cameras or documents that Google knows about have likely been posted by someone on forums in the form of links.
 
-Google
-----
-Лидер среди поисковых систем, этот гигант найдет все, что только пожелаешь. 
-Существует даже специальная дисциплина у хакеров-любителей - "google hacking" - процесс нахождения уязвимостей и ценной информации через google.
+Google ---- The leader among search engines, this giant will find everything you desire.
+There is even a special discipline among amateur hackers called "google hacking" - the process of finding vulnerabilities and valuable information thru Google.
 
-[Поисковый синтаксис](https://support.google.com/websearch/answer/136861?hl=ru).
+[Search Syntax](https://support.google.com/websearch/answer/136861?hl=en).
 
-Сам запрос в гугл, который помогает найти нужную инфу, называется **google dork**.
-Примеры самых простых дорков:
+The query in Google that helps find the necessary information is called a **google dork**.
+Examples of the simplest dorks:
 
-Ошибки SQL серверов:
-> site:gov "error in your sql syntax"
+SQL server errors: > site:gov "error in your sql syntax"
 
-"Секретные" материалы:
-> filetype:pdf site:gov "top secret"
+"Secret" materials: > filetype:pdf site:gov "top secret"
 
-Всевозможные бекапы:
-> intitle:"index of /backup/"
+All sorts of backups: > intitle:"index of /backup/"
 
-Поиск по pastebin.com откроет для тебя много нового:
-> site:pastebin.com password @gmail.com
+Searching on pastebin.com will reveal a lot of new things for you: > site:pastebin.com password @gmail.com
 
-Ищем в гугле гугл дорки:
-> site:pastebin.com dorks
+Searching for Google dorks on Google: > site:pastebin.com dorks
 
-База данных дорков [тут](http://www.exploit-db.com/google-dorks/).
-Запросы для поиска IP камер [здесь](http://www.google.com/search?q=site:pastebin.com+camera+dork).
+The dork database is [here](http://www.exploit-db.com/google-dorks/).
+Requests for searching IP cameras [here](http://www.google.com/search?q=site:pastebin.com+camera+dork).
 
+Yandex has a different search syntax, more tailored to the Russian user.
+It's easier to find all sorts of artifacts and fossils in the RuNet with it.
 
-Yandex
-----
-Яндекс имеет другой поисковый синтаксис, более заточен на российского пользователя. 
-С ним легче находить всякие артефакты и окаменелости в рунете.
+Shodan ---- [Shodan](http://shodan.io/) - a special search engine that looks for devices connected to the internet.
+You can find everything from routers to industrial automation systems.
+Searching beyond the first page is available after registration, and if you want full access, you'll have to pay the creator.
 
-Shodan
-----
-[Shodan](http://shodan.io/) - особая поисковая система, которая ищет устройства, подключенные к интернету.
-Можно находить все - от роутеров, до промышленных систем автоматизации.
-Поиск дальше 1 страницы доступен после регистрации, а если захочешь полный доступ, то прийдется платить создателю.
+Censys ---- [Censys](http://censys.io/) - a search engine similar to Shodan, created as an interface to vast archives of full internet scans (https://scans.io/). Updates are made daily using scans thru ZMap and ZGrab. Free, but registration is required for more than 5 searches per day. Supported by Google.
 
-Censys
-----
-[Censys](http://censys.io/) - похожая на Shodan поисковая система, созданная в качестве интерфейса к огромным архивам полного сканирования интернета (https://scans.io/). Обновление производится ежедневно с помощью скана через ZMap и ZGrab. Бесплатна, но нужна регистрация для > 5 поисков в день. Поддерживается гуглом.
-
-robots.txt
-----
-robots.txt - специальный файл в корневой папке сайта, который вебмастеры используют для ограничения доступа поисковикам. Бывает, вебмастер скрывает то, что должно быть скрыто от наших любопытных глаз: админку, папку с логами, бекапы и т.д.
+robots.txt ---- robots.txt is a special file in the root folder of a website that webmasters use to restrict access to search engines. Sometimes, the webmaster hides what should be kept from our curious eyes: the admin panel, the log folder, backups, etc.
