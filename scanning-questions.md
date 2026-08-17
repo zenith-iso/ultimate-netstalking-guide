@@ -1,16 +1,13 @@
-Вопросы по сканингу Сети
-===
-Q: **Почему массовый скан IP-адресов нежелателен и является запрещённым у большинства хостинг-провайдеров?**
+Questions about Network Scanning === Q: **Why is mass scanning of IP addresses undesirable and prohibited by most hosting providers?**
 
+A: With some providers (for example, [Linode](https://www.linode.com/)), you can scan quite freely until the first abuse reports. But the issue of further reactions to these actions is closely related to blacklists, for example, the organization [Spamhaus](https://www.spamhaus.org/), whose blacklists are used by many large corporations.
 
-A: У некоторых провайдеров (например, [Linode](https://www.linode.com/)) можно вполне сканить до первых абуз. А вот вопрос с дальнейшей реакцией на эти действия тесно связан с блэклистами, например, с организацией [Spamhaus](https://www.spamhaus.org/), черными списками которой пользуются многие крупные корпорации.
+The essence is that when spam, hacking attempts, and so on are detected, your address is added to a blacklist. Next, escalation begins (essentially, racketeering at the institutional level) at the provider level - if the provider does not eliminate the cause of the block, the provider's range is blocked, and Spamhaus starts contacting the provider's higher level.
 
-Суть в том, что при обнаружении рассылки спама, попытки взлома и так далее твой адрес заносится в черный список. Дальше начинается эскалация (по сути, рэкет по инстанциям) на уровне провайдера - если провайдер не устраняет причину блока, то у провайдера блокируют диапазон и Spamhaus уже начинает писать провайдеру на уровень выше. 
+In the end, a large subnet or even an AS (autonomous system) may be blocked, and the provider may have to pay a large sum to have it removed from the lists.
 
-В итоге могут заблокировать большую подсеть или даже AS (автономную систему), а за исключение её из списков провайдеру может прийтись платить крупную сумму.
+Of course, it's more beneficial for the provider to block you immediately rather than deal with various Spamhaus and USEProtect, pay fines, and watch regular users leave who encountered the block (email blocking and so on).
 
-Разумеется, провайдеру выгоднее сразу заблочить тебя чем разбираться со всякими Spamhaus и USEProtect, выплачивать и смотреть как уходят обычные пользователи, которые столкнулись с блокировкой (блокировка писем и так далее).
+Q: **Which scan is easier for the provider to detect?**
 
-Q: **Какой скан провайдеру проще детектить?**
-
-A: Проще всего детектится массовый скан адресов, на раз. Скан по рандомным адресам распознать намного труднее, а скан одного адреса (или, к примеру, неспешный брут) может вообще сливаться с обычным трафиком (пример: просто при сидении в ВК браузер делает огромное количество запросов на докачку фото, аудио, и прочей другой фигни).
+A: The easiest to detect is a mass address scan, hands down. A scan of random addresses is much harder to detect, while a scan of a single address (or, for example, a slow brute-force attack) can blend in with regular traffic (example: just sitting on VK, the browser makes a huge number of requests to download photos, audio, and other stuff).
