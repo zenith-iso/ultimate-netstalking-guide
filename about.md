@@ -1,25 +1,25 @@
-# Что такое нетсталкинг?
+# What is netstalking?
 
-Для тех, кто еще не в курсе: deepweb, darknet, invisible internet - эти термины означают скрытые части интернета, в которые невозможно попасть через обычные поисковые системы.
+For those who are not yet aware: deep web, darknet, invisible internet - these terms refer to hidden parts of the internet that cannot be accessed thru regular search engines.
 
-Поиск в интернете сейчас можно сравнивать с закидыванием сети в океан - некоторую нужную для обывателей информацию легко найти через гугл, но это всего лишь крошечная часть всего интернета. Помимо индексируемых документов есть еще гигантский пласт непроиндексированной информации.
+Searching the internet now can be compared to casting a net into the ocean—some of the information needed by the average person can be easily found thru Google, but this is just a tiny fraction of the entire internet. Beside indexed documents, there is also a vast amount of unindexed information.
 
-В российском интернете нетсталкингом стали называть процесс исследования дипвеба. Зародилось движение "нетсталкеров" в 2009-2010 годах на одном из анонимных имиджбордов. Там же был написан простой сканер портов YOBA и нетсталкеры пытались найти что-то интересное с его помощью. К слову, в иностранном интернете слово netstalking имеет совершенно другой смысл, так называют процесс преследования и травли людей в интернете. 
+In the Russian internet, the process of exploring the deep web has come to be called netstalking. The "netstalkers" movement originated in 2009-2010 on one of the anonymous imageboards. There, a simple port scanner called YOBA was also written, and netstalkers tried to find something interesting with its help. By the way, in foreign internet slang, the word "netstalking" has a completely different meaning; it refers to the process of stalking and harassing people online.
 
-Со временем, в связи с отсутсвием организованности среди несталкеров, термин приобрел множество других значений.
+Over time, due to the lack of organization among non-stalkers, the term has acquired many other meanings.
 
-# Что же полезного можно найти в глубоком интернете?
+# What useful things can be found on the deep web?
 
-Самая популярная часть глубокого интернета - это darknet, представленный в основном анонимными сетями. Обычные поисковые системы не могут проиндексировать сайты в сети TOR и I2P, хотя этих сайтов огромное множество и они несут в себе много различной информации. В анонимных сетях можно найти файлы, распространение которых уголовно наказуемо в обычном интернете. Это запрещенные книги, фильмы, музыка и прочее. В дипвебе есть торговые площадки, где предлагают нелегальные товары и услуги. Там так же много мошенников, агентов ФБР, террористов и полицейских. 
+The most popular part of the deep web is the darknet, primarily represented by anonymous networks. Regular search engines cannot index sites on the TOR and I2P networks, although there are a vast number of these sites and they contain a lot of diverse information. In anonymous networks, you can find files whose distribution is criminally punishable in the regular internet. These are banned books, movies, music, and more. In the deep web, there are marketplaces where illegal goods and services are offered. There are also many scammers, FBI agents, terrorists, and police officers there.
 
-Даркнетом так же являются источники информации, которые используют устаревшие протоколы. Ни один поисковик не индексирует консольные BBS или GOPHER сайты. С бурным развитием WEB технологий эти старые способы обмена информацией стали не актуальны, но, тем не менее, некоторые люди до сих пор ими пользуются.
+The darknet also includes information sources that use outdated protocols. No search engine indexes console BBS or GOPHER sites. With the rapid development of WEB technologies, these old methods of information exchange have become obsolete, but nevertheless, some people still use them.
 
-В обычном вебе больше копипасты, пропаганды и развлекательного контента. В даркнете контент несет больше смысла, он более полезный, узконаправленный и уникальный.
+In the regular web, there is more copy-pasting, propaganda, and entertainment content. In the darknet, the content carries more meaning; it is more useful, specialized, and unique.
 
-Менее популярная, но не менее интересная часть глубого интернета - это deepweb, то есть неиндексируемые страницы и подключенные к интернету устройства. Ежедневно в сети появляются новые IP камеры, роутеры, принтеры, сетевые хранилища. Часто эти устройства настраиваются таким образом, что их легко обнаружить и получить к ним полный доступ. Была даже создана специальная поисковая система, [Shodan](http://shodan.io), которая помогает исследователям дипвеба найти эти устройства.
+Less popular, but no less interesting part of the deep internet is the deep web, that is, non-indexable pages and internet-connected devices. Every day, new IP cameras, routers, printers, and network storage devices appear on the network. Often, these devices are configured in such a way that they are easy to discover and gain full access to. A special search engine, [Shodan](http://shodan.io), was even created to help deep web researchers find these devices.
 
-Особую ценность для предприимчивых людей представляют закрытые порталы и информация, хранящаяся на защищенных серверах. Самая дорогая на черном рынке информация - данные о кредитных картах, копии паспортов, украденные базы данных крупных компаний.
+Closed portals and information stored on secure servers hold particular value for enterprising individuals. The most expensive information on the black market includes credit card data, copies of passports, and stolen databases of large companies.
 
-# ПРЕДУПРЕЖДЕНИЕ! 
+# WARNING!
 
-Некоторые вещи, которые вы найдете в глубоком интернете могут вас шокировать или навредить вам. Стоит быть предельно осторожным и обеспечить свою безопасность перед посещением дипвеба. Используйте VPN и TOR, отключите JAVA, FLASH, заклейте вебкамеру изолентой. Не кликайте на все ссылки подряд, там может быть расчлененка или honeypot.
+Some things you find on the deep web can shock or harm you. It is worth being extremely cautious and ensuring your safety before visiting the deep web. Use a VPN and TOR, disable JAVA, FLASH, and cover your webcam with tape. Don't click on all the links one after another, there might be gore or a honeypot.
